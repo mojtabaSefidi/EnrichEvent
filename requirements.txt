@@ -1,0 +1,15 @@
+imbalanced_learn
+keras
+matplotlib
+numpy
+pandas
+Pillow
+scikit_learn
+scipy
+seaborn
+tensorflow
+torch
+tqdm
+hdbscan
+transformers
+wordcloud_fa
