@@ -24,7 +24,7 @@ class Synthetic_Dataset(Dataset):
                  start_date,
                  end_date,
                  tokenizer,
-                 context_length=1,
+                 context_length=2,
                  max_occurrnece=30,
                  randomize=False):
         
