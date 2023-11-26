@@ -4,7 +4,7 @@ Official Implementation of "[EnrichEvent: Enriching Social Data with Contextual 
 ### How to run?
 1. Go to main.ipynb
 2. initialize and customize the parameters based on your usage
-3. Run the cells of main.ipynb
+3. Run all the cells of main.ipynb
 4. The results will be saved in the directory where you have addressed
 
 ### How to find the dataset?
