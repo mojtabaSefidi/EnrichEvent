@@ -26,13 +26,13 @@ Social platforms have emerged as crucial platforms for disseminating information
 ## Training the Event Summarization Model
 1. Navigate to the `/Event_Summarization` folder.
 2. Use `train.py` to build and train the event summarization model.
-   - **Note**: A pre-trained embedding model is required, based on the language of your dataset.
+   - **Note**: A pre-trained embedding model is required based on the language of your dataset.
 
 ## Citation
 For more details, please refer to our paper:
 
 ```
-@article{EnrichEvent2023,
+@article{Esfahani2023EnrichEvent,
   title={EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction},
   author={Mohammadali Sefidi Esfahani and Mohammad Akbari},
   journal={Arxiv},
