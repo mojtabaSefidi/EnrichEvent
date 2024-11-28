@@ -35,7 +35,7 @@ For more details, please refer to our paper:
 @article{Esfahani2023EnrichEvent,
   title={EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction},
   author={Mohammadali Sefidi Esfahani and Mohammad Akbari},
-  journal={Arxiv},
+  journal={arXiv preprint arXiv:2307.16082},
   year={2023},
   doi={https://arxiv.org/abs/2307.16082}
 }
