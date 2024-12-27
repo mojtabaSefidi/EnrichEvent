@@ -43,6 +43,6 @@ For more details, please refer to our paper:
 
 ---
 
-For any questions or issues, feel free to contact us.
+Feel free to contact me for any questions or issues.
 
 ---
