@@ -29,7 +29,7 @@ Social platforms have emerged as crucial platforms for disseminating information
    - **Note**: A pre-trained embedding model is required based on the language of your dataset.
 
 ## Citation
-For more details, please refer to our paper:
+For more details about methodology, please refer to our paper:
 
 ```
 @article{Esfahani2023EnrichEvent,
