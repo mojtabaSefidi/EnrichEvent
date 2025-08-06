@@ -1,8 +1,8 @@
 # EnrichEvent
-Official implementation of "[**EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction**](https://arxiv.org/pdf/2307.16082)"
+Official implementation of "[**EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction**](https://link.springer.com/article/10.1007/s42044-025-00284-2)"
 
 ## Introduction
-Social platforms have emerged as crucial platforms for disseminating information and discussing real-life social events, offering researchers an excellent opportunity to design and implement novel event detection frameworks. However, most existing approaches only exploit keyword burstiness or network structures to detect unspecified events. Thus, they often need help identifying unknown events regarding the challenging nature of events and social data. Social data, e.g., tweets, is characterized by misspellings, incompleteness, word sense ambiguation, irregular language, and variation in aspects of opinions. Moreover, extracting discriminative features and patterns for evolving events by exploiting the limited structural knowledge is almost infeasible. To address these challenges, in this paper, we propose a novel framework, namely EnrichEvent, that leverages the linguistic and contextual representations of streaming social data. In particular, we leverage contextual and linguistic knowledge to detect semantically related tweets and enhance the effectiveness of the event detection approaches. Eventually, our proposed framework produces cluster chains for each event to show the evolving variation of the event through time. We conducted extensive experiments to evaluate our framework, validating its high performance and effectiveness in detecting and distinguishing unspecified social events.
+Social platforms have emerged as crucial platforms for disseminating information and discussing real-life social events, offering researchers an excellent opportunity to design and implement novel event detection frameworks. However, most existing approaches only exploit keyword burstiness or network structures to detect unspecified events. Thus, they often need help identifying unknown events regarding the challenging nature of events and social data. Social data, e.g., tweets, is characterized by misspellings, incompleteness, word sense ambiguation, irregular language, and variation in aspects of opinions. Moreover, extracting discriminative features and patterns for evolving events by exploiting the limited structural knowledge is almost infeasible. To address these challenges, in this paper, we propose a novel framework, **EnrichEvent**, that leverages the linguistic and contextual representations of streaming social data. In particular, we leverage contextual and linguistic knowledge to detect semantically related tweets and enhance the effectiveness of the event detection approaches. Eventually, our proposed framework produces cluster chains for each event to show the evolving variation of the event through time. We conducted extensive experiments to evaluate our framework, validating its high performance and effectiveness in detecting and distinguishing unspecified social events.
 
 ## Inputs & Outputs
 - **Input**: Streams of message blocks.
@@ -14,7 +14,7 @@ Social platforms have emerged as crucial platforms for disseminating information
 3. Run all cells in `main.ipynb`.
 4. The results will be saved in the specified output directory.
 
-## About Dataset
+## About the Dataset
 1. You can find the details of our proposed datasets in the `/Dataset` folder.
    - **Note**: You may also use your own dataset, but ensure its structure and column names are compatible with the model.
 
@@ -29,20 +29,21 @@ Social platforms have emerged as crucial platforms for disseminating information
    - **Note**: A pre-trained embedding model is required based on the language of your dataset.
 
 ## Citation
-For more details about methodology, please refer to our paper:
+For more details about the methodology, please refer to our paper:
 
 ```
-@article{Esfahani2023EnrichEvent,
+@article{Esfahani2025EnrichEvent,
   title={EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction},
   author={Mohammadali Sefidi Esfahani and Mohammad Akbari},
-  journal={arXiv preprint arXiv:2307.16082},
-  year={2023},
-  doi={https://arxiv.org/abs/2307.16082}
+  journal={Iran Journal of Computer Science},
+  year={2025},
+  doi={https://doi.org/10.1007/s42044-025-00284-2}
 }
 ```
 
+
 ---
 
-Feel free to contact me for any questions or issues.
+You can also download the paper from [**arXiv**](https://arxiv.org/pdf/2307.16082). Please feel free to contact me with any questions or concerns.
 
 ---
